@@ -11,7 +11,7 @@ Run the examples with: `lb-run DaVinci/latest gaudirun.py DaVinci_Options.py`
 
 ### Example 1
 
-This simple example does not require input files. 
+This simple example does not require input files. It is one of the official Gaudi examples found [here](https://gitlab.cern.ch:8443/atlas/Gaudi/blob/master/GaudiExamples/options/TupleEx.py). 
 
 ### Example 2
 
