@@ -20,7 +20,8 @@ The code for this example is copied from [analysis-case-study](https://github.co
 ## Read metadata
 
 The n-tuple produced now has an 'info' file as shown on Figure below.
-![][img/image.png]
+
+![](img/image.png)
 
 To avoid problems with ROOT run: `lb-run ROOT bash`, then `root` and:
 ```
