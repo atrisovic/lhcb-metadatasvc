@@ -28,3 +28,7 @@ To avoid problems with ROOT run: `lb-run ROOT bash`, then `root` and:
 .L read-metadata/readMetaData.C
 readMetaData("DV-ntuple.root")
 ```
+With the HTML viewer the metadata should look like this:
+
+![](img/viewer.png)
+
